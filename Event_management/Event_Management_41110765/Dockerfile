@@ -5,4 +5,4 @@ FROM tomcat:9.0
 COPY Event_Management.war /usr/local/tomcat/webapps/
 
 # Expose the default port
-EXPOSE 8080
+EXPOSE 8081
